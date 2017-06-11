@@ -1,16 +1,12 @@
 .page-header
 {
-  background-image: url("http://images-nitrosell-com.akamaized.net/product_images/9/2167/large-texture-mat-dragon-scale-lg.jpg");
-background-size: cover;;
-    background-color: #15117F;
+    background-color: #000000;
     margin-top: 0;
     padding: 60px 60px 60px 600px;
 }
 
 body
 {
-  background-image: url("http://orig13.deviantart.net/e596/f/2016/100/f/5/storm_dragon__by_bayardwu-d9ydy3k.jpg");
-  background-size: cover;;
    background-attachment: fixed;;
     background-position: center;;
     background-repeat: no-repeat;
@@ -20,7 +16,8 @@ body
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #990000;
     font-size: 36pt;
-    text-decoration: underline;;
+    text-align: left;
+    text-decoration: underline;
 }
 
 .content {
@@ -37,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
     float: right;
     font-style: italic;
     font-weight: bold;
-    color: #ffffff;
+    color: #000000;
 }
 
 .save {
